@@ -2,5 +2,5 @@ from . import main
 
 @main.route('/')
 def index():
-    return '<h1> Hello Kj </h1>'
+    return '<h1> Hello kirima </h1>'
 
